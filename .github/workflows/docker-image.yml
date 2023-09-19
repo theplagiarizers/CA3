@@ -23,5 +23,5 @@ jobs:
       run: docker build . --file Dockerfile --tag itshoney/ca3:latest
     - name: Push Docker image
       run: |
-          docker tag docker_demo:latest ${{ secrets.DOCKER_USERNAME }}/itshoney/ca3:latest
+          docker tag itshoney/ca3:latest ${{ secrets.DOCKER_USERNAME }}/itshoney/ca3:latest
           docker push ${{ secrets.DOCKER_USERNAME }}/itshoney/ca3:latest
