@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route ('/')
 def hello():
-    return 'Hello World!'
+    return 'Hello Worrld!'
 @app.route('/bmi', methods=['POST'])
 def calculate_bmi():
     data = request.get_json()
