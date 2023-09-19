@@ -24,4 +24,4 @@ jobs:
     - name: Push Docker image
       run: |
           docker tag docker_demo:latest ${{ secrets.DOCKER_USERNAME }}/itshoney/ca3:latest
-          docker push ${{ secrets.DOCKER_USERNAME }}/docker_demo:latest
+          docker push ${{ secrets.DOCKER_USERNAME }}/itshoney/ca3:latest
