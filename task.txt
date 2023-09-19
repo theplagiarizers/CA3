@@ -1,6 +1,6 @@
 Rohaan
-    everything
+    Created docker images and container 
 Zubair 
-
+    Setted up github account and its respoitory
 Moiz
-    
+    Completed his sleep :D
