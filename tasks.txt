@@ -3,4 +3,4 @@ Moiz
 Rohan
   Docker image creation
 Zubair
-  Basic things
+  Setted up github account and its respoitory
