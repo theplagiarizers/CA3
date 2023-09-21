@@ -1,0 +1,6 @@
+Moiz
+  Code contribution
+Rohan
+  Docker image creation
+Zubair
+  Basic things
